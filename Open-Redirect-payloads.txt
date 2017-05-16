@@ -113,3 +113,4 @@ https:google.com
 //google%00.com
 https://www.whitelisteddomain.tld/https://www.google.com/
 ";alert(0);//
+javascript://www.whitelisteddomain.tld?%a0alert%281%29
