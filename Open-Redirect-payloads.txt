@@ -210,3 +210,13 @@ http:00330.0x3a.54990
 http:www.whitelisteddomain.tld@00330.0x3a.54990
 http:3H6k7lIAiqjfNeN@00330.0x3a.54990
 http:XY>.7d8T\205pZM@00330.0x3a.54990
+〱google.com
+〵google.com
+ゝgoogle.com
+ーgoogle.com
+ｰgoogle.com
+/〱google.com
+/〵google.com
+/ゝgoogle.com
+/ーgoogle.com
+/ｰgoogle.com
