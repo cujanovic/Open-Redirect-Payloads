@@ -222,3 +222,5 @@ http:XY>.7d8T\205pZM@00330.0x3a.54990
 /ｰgoogle.com
 %68%74%74%70%3a%2f%2f%67%6f%6f%67%6c%65%2e%63%6f%6d
 http://%67%6f%6f%67%6c%65%2e%63%6f%6d
+<>javascript:alert(1);
+<>//google.com
