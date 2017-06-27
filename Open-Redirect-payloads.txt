@@ -224,3 +224,4 @@ http:XY>.7d8T\205pZM@00330.0x3a.54990
 http://%67%6f%6f%67%6c%65%2e%63%6f%6d
 <>javascript:alert(1);
 <>//google.com
+//google.com\@www.whitelisteddomain.tld
