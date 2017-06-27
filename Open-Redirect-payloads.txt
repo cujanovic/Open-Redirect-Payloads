@@ -225,3 +225,4 @@ http://%67%6f%6f%67%6c%65%2e%63%6f%6d
 <>javascript:alert(1);
 <>//google.com
 //google.com\@www.whitelisteddomain.tld
+https://:@google.com\@www.whitelisteddomain.tld
