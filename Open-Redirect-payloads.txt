@@ -239,3 +239,13 @@ http://3H6k7lIAiqjfNeN@www.whitelisteddomain.tld@google.com/
 http://XY>.7d8T\205pZM@www.whitelisteddomain.tld@google.com/
 http://www.whitelisteddomain.tld+&@google.com#+@www.whitelisteddomain.tld/
 http://google.com\twww.whitelisteddomain.tld/
+//google.com:80#@www.whitelisteddomain.tld/
+//google.com:80?@www.whitelisteddomain.tld/
+//3H6k7lIAiqjfNeN@www.whitelisteddomain.tld+@google.com/
+//XY>.7d8T\205pZM@www.whitelisteddomain.tld+@google.com/
+//3H6k7lIAiqjfNeN@www.whitelisteddomain.tld@google.com/
+//XY>.7d8T\205pZM@www.whitelisteddomain.tld@google.com/
+//www.whitelisteddomain.tld+&@google.com#+@www.whitelisteddomain.tld/
+//google.com\twww.whitelisteddomain.tld/
+//;@www.google.com
+http://;@www.google.com
