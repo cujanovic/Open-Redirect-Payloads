@@ -249,3 +249,4 @@ http://google.com\twww.whitelisteddomain.tld/
 //google.com\twww.whitelisteddomain.tld/
 //;@www.google.com
 http://;@www.google.com
+@google.com
