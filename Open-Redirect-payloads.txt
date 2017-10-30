@@ -110,6 +110,7 @@ https:google.com
 //google%E3%80%82com
 \/\/google.com/
 /\/google.com/
+/%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/
 //google%00.com
 https://www.whitelisteddomain.tld/https://google.com/
 ";alert(0);//
