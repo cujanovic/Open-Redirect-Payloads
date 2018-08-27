@@ -106,6 +106,7 @@ javascript:alert(1)
 /%09/javascript:alert(1)
 java%0d%0ascript%0d%0a:alert(0)
 //localdomain.pw
+http:localdomain.pw
 https:localdomain.pw
 //localdomain%E3%80%82pw
 \/\/localdomain.pw/
@@ -286,3 +287,4 @@ http://www.localdomain.pw\.www.whitelisteddomain.tld
 %19Jav%09asc%09ript:https%20://www.whitelisteddomain.tld/%250Aconfirm%25281%2529
 %01https://localdomain.pw
 www.whitelisteddomain.tld;@localdomain.pw
+https://www.whitelisteddomain.tld;@localdomain.pw
