@@ -290,3 +290,6 @@ www.whitelisteddomain.tld;@localdomain.pw
 https://www.whitelisteddomain.tld;@localdomain.pw
 http:%0a%0dlocaldomain.pw
 https://%0a%0dlocaldomain.pw
+localdomain.pw/www.whitelisteddomain.tld
+https://localdomain.pw/www.whitelisteddomain.tld
+//localdomain.pw/www.whitelisteddomain.tld
