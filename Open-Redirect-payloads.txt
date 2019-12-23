@@ -475,3 +475,4 @@ https%3A/:@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\@www.whitelisteddomai
 https%3A/;@localdomain.pw
 https%3A/www.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\.www.whitelisteddomain.tld
 javascript:%250Aalert(1)
+javascript:alert(1)//https://www.whitelisteddomain.tld
