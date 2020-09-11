@@ -43,9 +43,9 @@ function MAKE_REDIRECT_PAYLOADS () {
 	CHECK_PREVIOUS_CMD $LINENO
 	sed 's/@www.whitelisteddomain.tld/@'"$WHITELISTEDDOMAIN"'/' Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".tmp > Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
 	CHECK_PREVIOUS_CMD $LINENO
-	echo "$WHITELISTEDDOMAIN" | awk -F. '{if ($1 =="www") print "//not"$2"."$NF"/"; else print "//not"$1"."$NF"/";}' >> Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
+	echo "$WHITELISTEDDOMAIN" | awk -F\. '{print "//not"$(NF-1) FS $NF}' >> Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
 	CHECK_PREVIOUS_CMD $LINENO
-	echo "$WHITELISTEDDOMAIN" | awk -F. '{if ($1 =="www") print "http://not"$2"."$NF"/"; else print "http://not"$1"."$NF"/";}' >> Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
+	echo "$WHITELISTEDDOMAIN" | awk -F\. '{print "http://not"$(NF-1) FS $NF}' >> Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
 	CHECK_PREVIOUS_CMD $LINENO
 	echo "$WHITELISTEDDOMAIN" | awk -F. '{print "http://"$0"."$NF"/"}' >> Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".txt
 	rm -f Open-Redirect-payloads-burp-"$WHITELISTEDDOMAIN".tmp
