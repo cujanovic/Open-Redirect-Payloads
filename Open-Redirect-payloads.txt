@@ -532,3 +532,14 @@ https://localdomain.pw\udfff@www.whitelisteddomain.tld/
 //localdomain.pw\udfff@www.whitelisteddomain.tld/
 https://localdomain.pw�@www.whitelisteddomain.tld/
 //localdomain.pw�@www.whitelisteddomain.tld/
+https://www.whitelisteddomain.tld%40%E2%80%AE@wp.niamodlacol
+https://www.whitelisteddomain.tld%40%E2%80%AE@localdomain.pw
+https://www.whitelisteddomain.tld%40%E2%80%AE@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld@%E2%80%AE@wp.niamodlacol
+https://www.whitelisteddomain.tld@%E2%80%AE@localdomain.pw
+https://www.whitelisteddomain.tld@%E2%80%AE@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld@/%E2%80%AE@wp.niamodlacol
+https://www.whitelisteddomain.tld@/%E2%80%AE@localdomain.pw
+https://www.whitelisteddomain.tld@/%E2%80%AE@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld@'#localdomain.pw
+https://www.whitelisteddomain.tld@'#Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
