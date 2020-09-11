@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #If terminal add collors
 if [[ -t 1 ]]; then
