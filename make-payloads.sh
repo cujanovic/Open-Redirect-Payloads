@@ -16,6 +16,7 @@ else
 	green=''
 	blue=''
 	yellow=''
+	orange=''
 	errorredline=''
 	greenbgblacktext=''
 	NC=''
